@@ -1,4 +1,4 @@
-# 1. Distance Calculator - Google Maps Distance API
+# 1. Ride-sharing application  API
 ### 1.1. Enyasu Andrew VU-BIT-2209-0272-EVE & Akao Victoria VU-BIT-2301-0424-EVE
 Ride-sharing application that utilizes Google Routes API to provide route suggestions and Google Distance API 
 Software needed; Xamp, chrome browser to run the codes, Notepad plus plus platform to code
